@@ -3,6 +3,8 @@
 Proyecto final · Introducción a la Programación para Ciencia de Datos · Maestría en Ciencias de los Datos · UIP
 **Autor:** Simón Ali Bustamante Blanco (individual)
 
+[![Portada de la presentación](reporte/presentacion_portada.png)](Presentaci%C3%B3n.pdf)
+
 ## Fuente
 
 - Ofertas de empleo publicadas en konzerta.com (Panamá); dataset proporcionado por el profesor.
@@ -20,6 +22,7 @@ Proyecto final · Introducción a la Programación para Ciencia de Datos · Maes
 │   └── limpios/      datos normalizados y limpios + tablas de análisis
 ├── notebooks/        proyecto_konzerta.ipynb (limpieza, EDA y dashboard)
 ├── reporte/
+│   ├── presentacion_portada.png  imagen de este README
 │   └── dashboard/    index.html y copias index_AAAAMMDD_HHMMSS.html (generados)
 └── requirements.txt
 ```

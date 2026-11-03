@@ -1,0 +1,26 @@
+﻿area,avisos,con_salario,pct_publica_salario,salario_q1,salario_mediana,salario_q3,n_suficiente
+"Comercial, Ventas y Negocios",783,90,11.5,680.5,800.0,1087.5,True
+"Administración, Contabilidad y Finanzas",442,71,16.1,800.0,1100.0,1525.0,True
+Producción y Manufactura,141,29,20.6,667.5,800.5,950.0,True
+Gastronomía y Turismo,142,26,18.3,647.0,699.8,837.5,True
+Abastecimiento y Logística,290,26,9.0,678.1,750.0,918.8,True
+"Tecnología, Sistemas y Telecomunicaciones",144,26,18.1,762.5,1492.0,3250.0,True
+Oficios y Otros,223,26,11.7,675.0,762.5,1018.8,True
+"Atención al Cliente, Call Center y Telemarketing",137,24,17.5,635.0,787.5,1012.5,True
+Secretarias y Recepción,38,19,50.0,712.5,840.0,1000.0,True
+Ingenierías,116,17,14.7,1050.0,1300.0,1400.0,True
+Ingeniería Civil y Construcción,97,17,17.5,879.0,1250.0,1500.5,True
+"Salud, Medicina y Farmacia",54,14,25.9,806.2,1325.0,1937.5,True
+Marketing y Publicidad,95,12,12.6,768.8,800.0,925.0,True
+Departamento Técnico,22,8,36.4,775.0,837.5,933.9,False
+Recursos Humanos y Capacitación,69,6,8.7,1212.5,2075.0,2412.5,False
+Legales,36,6,16.7,812.1,1025.0,1237.5,False
+Diseño,31,5,16.1,775.0,1050.0,1100.0,False
+"Naviero, Marítimo, Portuario",13,5,38.5,850.0,950.0,1375.0,False
+Gerencia y Dirección General,25,4,16.0,806.2,962.5,1168.8,False
+"Educación, Docencia e Investigación",18,4,22.2,606.2,637.5,812.5,False
+"Minería, Petróleo y Gas",8,3,37.5,750.0,825.0,961.8,False
+Seguros,12,2,16.7,1275.0,1300.0,1325.0,False
+Aduana y Comercio Exterior,8,2,25.0,881.2,937.5,993.8,False
+"Comunicación, Relaciones Institucionales y Públicas",15,0,0.0,,,,False
+Sociología / Trabajo Social,1,0,0.0,,,,False

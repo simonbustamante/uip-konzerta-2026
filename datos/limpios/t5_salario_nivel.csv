@@ -1,0 +1,10 @@
+﻿nivel_laboral,avisos,con_salario,pct_publica_salario,salario_q1,salario_mediana,salario_q3,n_suficiente
+Sin Experiencia,13,1,7.7,650.0,650.0,650.0,False
+Trainee / Pasante,20,0,0.0,,,,False
+Junior,1021,16,1.6,800.0,875.0,1200.0,True
+Semi Sr,1001,218,21.8,700.0,900.0,1231.2,True
+Senior,298,3,1.0,843.8,887.5,1818.8,False
+Jefe / Supervisor / Responsable,170,1,0.6,1375.0,1375.0,1375.0,False
+Gerencia / Alta Gerencia / Dirección,81,0,0.0,,,,False
+Otro,104,4,3.8,681.2,725.0,837.5,False
+Sin dato,252,199,79.0,699.8,850.0,1300.0,True

@@ -1,0 +1,22 @@
+# Entorno de Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales de Excel y LibreOffice
+~$*
+.~lock.*
+
+# Copias del dashboard con fecha y hora (index.html sí se conserva)
+reporte/dashboard/index_*.html
+
+# Comprimido de la entrega
+*.zip
+
+# Sistema y editor
+.DS_Store
+Thumbs.db
+.vscode/

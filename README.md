@@ -33,7 +33,7 @@ Proyecto final · Introducción a la Programación para Ciencia de Datos · Maes
 `reporte/dashboard/index.html` es un solo archivo que se abre en cualquier navegador, sin internet ni servidor. Tiene dos pestañas:
 
 - **Historia:** la portada, 5 capítulos y 6 gráficos que cuentan los hallazgos principales.
-- **Análisis exploratorio:** el EDA de la sección 7 del notebook (7.1 a 7.9), con 13 gráficos más, tablas, hallazgos y contraste con la propuesta.
+- **Análisis exploratorio:** el EDA de la sección 7 del notebook (7.1 a 7.9), con 12 gráficos más, tablas, hallazgos y contraste con la propuesta.
 
 Cada ejecución reemplaza `index.html` y guarda una copia con la fecha y la hora en el nombre, para conservar cada versión.
 
@@ -76,7 +76,7 @@ En VS Code, abre `notebooks/proyecto_konzerta.ipynb`, elige el kernel `.venv` de
 
 | Dónde | Qué debes ver |
 |---|---|
-| Última celda del notebook | `Guardado: reporte/dashboard/index.html`, la copia con fecha y hora, `Gráficos Plotly: 19` y `Enlaces a avisos en la página: 0` |
+| Última celda del notebook | `Guardado: reporte/dashboard/index.html`, la copia con fecha y hora, `Gráficos Plotly: 18` y `Enlaces a avisos en la página: 0` |
 | `datos/limpios/` | 11 archivos CSV |
 | `reporte/dashboard/` | `index.html` y una copia nueva `index_AAAAMMDD_HHMMSS.html` |
 | Inicio del dashboard | Pestañas Historia y Análisis exploratorio; 2,960 avisos, 7,477 vacantes y salario mediano de B/. 875 |
